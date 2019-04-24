@@ -1,0 +1,206 @@
+body{
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.column{
+    float: left;
+}
+
+.logo{
+    width: 400px;
+    height: 100px;
+}
+
+#t1{
+    padding-left: 700px;
+}
+
+#p_name{
+    font-family: Algerian, Roboto;
+    font-size: 50px;;
+}
+
+.home_container{
+   border: 10px;
+    padding-left: 400px;
+}
+
+#h1{
+    width: 100%;
+    height: 300px;
+    padding-right: 500px;
+}
+
+.na{
+    text-align: right;
+    padding-right: 100px;
+    font-size: 20px;
+    font-family:  Roboto, Arial, sans-serif;
+}
+
+.na a{
+	text-decoration: none;
+}
+
+.na a:hover{
+	color:#FFC300;
+}
+/****************************  Buttons  *********************************/
+
+
+.button1 {
+  background-color: darkorange;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 30px;
+  font-size: 16px;
+  cursor: pointer;
+  height: 90px;
+    
+}
+
+
+.button1:hover {
+  background-color: #ffc300;
+}
+
+.button2 {
+  background-color: blue;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 30px;
+  font-size: 16px;
+  cursor: pointer;
+  height: 90px;
+}
+
+
+.button2:hover {
+  background-color: #ffc300;
+}
+
+.button3 {
+  background-color: green;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 20px;
+  font-size: 16px;
+  cursor: pointer;
+  height: 70px;
+}
+
+
+.button3:hover {
+  background-color: #ffc300;
+}
+
+/***********************************************************************/
+
+#home_cen1{
+    padding-left: 350px;
+    padding-right: 20px;
+}
+
+#home_cen2{
+    padding-left: 0px;
+}
+
+/**********************************************************************************************************/
+#f_isf{
+  display:block;
+  text-align:left;
+  border:2px solid #d3d3d3;
+  padding: 0px 5px 6px 5px;
+  border-radius: 10px;
+  border-style: ridge;
+  width: 45%;
+  background-color: #C0C0C0;
+  }
+
+input[type=text] {
+  width: 100%;
+  padding: 10px 10px;
+  margin: 0px 0;
+  display: inline-block;
+  border: 2px #d3d3d3 ;
+  /*border-radius: 4px;*/
+  box-sizing: border-box;
+}
+
+#isf1{
+	width: 45%;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+
+#isf2{
+	width: 45%;
+	padding-left: 15px;
+
+}
+#isf3{
+	width: 45%;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+
+#isf4{
+	width: 45%;
+	padding-left: 15px;
+	
+}
+#isf5{
+	width: 96%;
+	padding-left: 10px;
+	padding-right: 18px;
+	
+	
+}
+
+#isf6{
+	width: 96%;
+	padding-left: 10px;
+	padding-right: 18px;
+	
+}
+
+#isf7{
+	width: 60%;
+	padding-left: 10px;
+	padding-right: 0px;
+	display: inline-block;
+	
+}
+#states{
+	width: 55%;
+  	padding: 10px 8px;
+	margin: 0px 0;
+	border: 1px solid #ccc;
+	
+	}
+
+#isf8{
+	width: 20%;
+	padding-left: 60px;
+}
+
+#isf9{
+	padding-left: 10px;
+}
+#isf10{
+	padding-right: 10px;
+}
+
+/*****************************************************************************************************/
+.button{
+	border:none;
+	border-radius: 15px;
+	background-color: #ffc300;
+	color: white;
+	padding: 9px;
+}
